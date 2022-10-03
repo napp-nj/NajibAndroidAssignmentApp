@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string name="ApiFail">Api failure</string>
+
+    <string name="NoInternet">No internet connection</string>
+
+    <string name="NoDataFound">No data found</string>
+
+
+
+
+
+
+
+
+
+</resources>

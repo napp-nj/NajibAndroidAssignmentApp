@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="TrackThickness">2.50dp</dimen>
+
+    <dimen name="MaterialCardViewRadius">10dp</dimen>
+
+    <dimen name="UserImageWidthHeight">75dp</dimen>
+
+
+
+
+
+
+
+
+
+
+
+</resources>

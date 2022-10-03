@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.NajibAndroidAssignmentApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/AppColor</item>
+        <item name="colorPrimaryVariant">@color/White</item>
+        <item name="colorOnPrimary">@color/AppColor</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/AppColor</item>
+        <item name="colorSecondaryVariant">@color/White</item>
+        <item name="colorOnSecondary">@color/AppColor</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
+        <!-- this will prevent startup whit screen-->
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.CircleImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+</resources>
