@@ -18,8 +18,8 @@ import javax.net.ssl.X509TrustManager
 class RetrofitClient {
 
     companion object {
-        var apiFuntions: ApiFunctions? = null
 
+        var apiFuntions: ApiFunctions? = null
         private val TIME_OUT_SESSION: Long = 45000 // 45 Seconds to session out
 
         fun getClient(): ApiFunctions {
