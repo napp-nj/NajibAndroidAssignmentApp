@@ -6,8 +6,7 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface ApiFunctions {
-    //test helo
-
+    //puthawala
     @GET("users")
     fun users(): Call<UsersApiResp>
 
